@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c2uyp5hopggfuh7c?svg=true)](https://ci.appveyor.com/project/Ivan-Danilov996/yarn)
